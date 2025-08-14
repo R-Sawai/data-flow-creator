@@ -1,5 +1,5 @@
 import type { FC } from "react";
-import { MermaidView } from "./mermaid-view";
+import { MermaidView } from "./components/mermaid-view";
 
 export const App: FC = () => {
   const chart = `

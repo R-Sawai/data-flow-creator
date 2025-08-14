@@ -16,6 +16,7 @@
 | [Vite](https://ja.vite.dev/)         | 高速なフロントエンド開発環境とビルドツール           |
 | [shadcn/ui](https://ui.shadcn.com/)  | Radix UIベースの再利用可能なReactコンポーネント集    |
 | [tailwind](https://tailwindcss.com/) | クラス名ベースでデザインするCSSフレームワーク        |
+| [mermaid](https://mermaid.js.org/)   | UMLなどのダイアグラムを生成するツール                |
 
 ## セットアップ
 
